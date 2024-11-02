@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, and exploiting.
 - 🌱 I’m currently learning lua and python!
 - 💞️ I’m looking to collaborate on MG Hub.
-- 📫 How to reach me ; https://discord.gg/ae5bs4ZcdV
+- 📫 How to reach me ; [Discord](https://discord.gg/Gnhbud2B)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports, and roblox exploiting.
 
