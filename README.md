@@ -4,8 +4,7 @@
 
 <h1 align="center">👋 Hey, I'm @stfulua</h1>
 
-## 🚀 About Me
-- 🔥 Passionate about **programming** and **reverse engineering**  
+<p align="center">🔥 Passionate about <b>programming</b> and <b>reverse engineering</b></p>
 
 <h2 align="center">💻 I'm Skilled In</h2>
 <p align="center">
@@ -17,17 +16,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,go,cs" />
 </p>
 
-## 🌐 My Work  
-- 📚 **Documentation Sites**:  
-  - [MG Team](https://mg-team.gitbook.io/mg-team)  
-  - [SSI](https://mg-team.gitbook.io/universalsynsaveinstance)  
+<h2 align="center">🌐 My Work</h2>
+<p align="center">
+  📚 <b>Documentation Sites</b><br>
+  <a href="https://mg-team.gitbook.io/mg-team">MG Team</a> | 
+  <a href="https://mg-team.gitbook.io/universalsynsaveinstance">SSI</a>
+</p>
 
-## 📬 Contact Me  
-- 💬 DM me on Discord: **__stfu.lua__**  
+<h2 align="center">📬 Contact Me</h2>
+<p align="center">
+  💬 DM me on Discord: <b>__stfu.lua__</b>
+</p>
 
 ---
 
-⚠ **I promise I will soon fix everything I have made. I will repair everything because it's fucked.**  
+<p align="center">⚠ <b>I promise I will soon fix everything I have made. I will repair everything because it's fucked.</b></p>
 
 <!---
 stfulua/stfulua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
