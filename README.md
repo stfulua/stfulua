@@ -6,8 +6,16 @@
 
 ## 🚀 About Me
 - 🔥 Passionate about **programming** and **reverse engineering**  
-- 🛠️ Skilled in **Lua** ![Lua](https://skillicons.dev/icons?i=lua), **Python** ![Python](https://skillicons.dev/icons?i=python)  
-- 📖 Currently/Soon learning **C++** ![C++](https://skillicons.dev/icons?i=cpp), **Go** ![Go](https://skillicons.dev/icons?i=go), **C#** ![C#](https://skillicons.dev/icons?i=cs)  
+
+<h2 align="center">💻 I'm Skilled In</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python" />
+</p>
+
+<h2 align="center">📖 I'm Learning</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,go,cs" />
+</p>
 
 ## 🌐 My Work  
 - 📚 **Documentation Sites**:  
