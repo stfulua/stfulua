@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @stfulua
-- 👀 I’m interested in programming, and exploiting.
-- 🌱 I’m currently learning lua, c++ and python!
-- 💞️ I’m looking to collaborate on MG Hub.
-- 📫 How to reach me ; [Discord](https://discord.gg/GnBRDFF3Vz) **or just DM __stfu.lua__**
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love cracking, and exploiting.
+<p align="center">
+  <img src="https://github.com/stfulua/stfulua/blob/main/banner.gif" alt="stfulua Banner">
+</p>
+
+<h1 align="center">👋 Hey, I'm @stfulua</h1>
+
+## 🚀 About Me
+- 🔥 Passionate about **programming** and **reverse engineering**  
+- 🛠️ Skilled in **Lua** ![Lua](https://skillicons.dev/icons?i=lua), **Python** ![Python](https://skillicons.dev/icons?i=python)  
+- 📖 Currently/Soon learning **C++** ![C++](https://skillicons.dev/icons?i=cpp), **Go** ![Go](https://skillicons.dev/icons?i=go), **C#** ![C#](https://skillicons.dev/icons?i=cs)  
+
+## 🌐 My Work  
+- 📚 **Documentation Sites**:  
+  - [MG Team](https://mg-team.gitbook.io/mg-team)  
+  - [SSI](https://mg-team.gitbook.io/universalsynsaveinstance)  
+
+## 📬 Contact Me  
+- 💬 DM me on Discord: **__stfu.lua__**  
+
+---
+
+⚠ **I promise I will soon fix everything I have made. I will repair everything because it's fucked.**  
 
 <!---
 stfulua/stfulua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
