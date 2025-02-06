@@ -30,7 +30,8 @@
 
 ---
 
-<p align="center">⚠ <b>I promise I will soon fix everything I have made. I will repair everything because it's fucked.</b></p>
+<p align="center">⚠ <b>I promise I will soon fix everything I have made. I will repair everything because it's fucked. ⚠</b></p>
+<p align="center">Doing it right now. My repositories, will be back soon!</b></p>
 
 <!---
 stfulua/stfulua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
