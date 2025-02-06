@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/stfulua/stfulua/blob/main/banner.gif" alt="stfulua Banner">
 </p>
-
 <h1 align="center">👋 Hey, I'm @stfulua</h1>
-
 <p align="center">🔥 Passionate about <b>programming</b> and <b>reverse engineering</b></p>
 
 <h2 align="center">💻 I'm Skilled In</h2>
@@ -13,7 +11,7 @@
 
 <h2 align="center">📖 I'm Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,cs" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,cs,java,typescript,python,sql" />
 </p>
 
 <h2 align="center">🌐 My Work</h2>
