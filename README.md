@@ -11,7 +11,7 @@
 
 <h2 align="center">📖 I'm Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,sql,rust" />
+  <img src="https://skillicons.dev/icons?i=typescript,rust" />
 </p>
 
 <h2 align="center">🌐 My Work</h2>
