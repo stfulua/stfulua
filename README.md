@@ -6,12 +6,12 @@
 
 <h2 align="center">💻 I'm Skilled In</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python" />
+  <img src="https://skillicons.dev/icons?i=lua,python,cpp,go,cs,js,java" />
 </p>
 
 <h2 align="center">📖 I'm Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,cs,java,typescript,python,sql" />
+  <img src="https://skillicons.dev/icons?i=typescript,sql,rust" />
 </p>
 
 <h2 align="center">🌐 My Work</h2>
