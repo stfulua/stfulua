@@ -24,6 +24,7 @@
 <h2 align="center">📬 Contact Me</h2>
 <p align="center">
   💬 DM me on Discord: <b>stfu.lua</b>
+  📂 Send me an Email: <b>stfulua@proton.me</b>
 </p>
 
 ---
