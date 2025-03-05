@@ -1,1 +1,16 @@
-arctic executor
+{
+    "versions_count": 2,
+    "versions": [
+        {
+            "name": "External",
+            "download_link": "https://example.com/external.exe",
+            "available": true
+        },
+        {
+            "name": "Internal",
+            "download_link": "https://example.com/internal.exe",
+            "available": false
+        }
+    ],
+    "download_path": "C:/Users/{User}/AppData/Local/Arctic/"
+}
