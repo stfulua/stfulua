@@ -12,5 +12,7 @@
             "available": false
         }
     ],
-    "download_path": "C:/Users/{User}/AppData/Local/Arctic/"
+    "download_path": "C:/Users/{User}/AppData/Local/Arctic/",
+    "exe_name": "Arctic.exe",
+    "version": "1.0.0.0"
 }
