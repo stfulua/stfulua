@@ -3,12 +3,12 @@
     "versions": [
         {
             "name": "External",
-            "download_link": "https://example.com/external.exe",
+            "download_link": "https://github.com/Arcticbromadm/Namssn/releases/download/Znznbxsn/arcticnokeysys.zip",
             "available": true
         },
         {
             "name": "Internal",
-            "download_link": "https://example.com/internal.exe",
+            "download_link": "https://github.com/Arcticbromadm/Namssn/releases/download/Znznbxsn/arcticnokeysys.zip",
             "available": false
         }
     ],
