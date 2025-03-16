@@ -64,7 +64,7 @@
 <p align="center">
   💬 <b style="color: #FF00FF;">Discord:</b> <span style="color: #00FFFF;">stfu.lua</span> <br>
   📂 <b style="color: #FF00FF;">Email:</b> <span style="color: #00FFFF;">stfulua@proton.me</span> <br>
-  🐦 <b style="color: #FF00FF;">Follow me on X:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF; text-decoration: none;">@stfulua_dev</a> <br>
+  🐦 <b style="color: #FF00FF;">Follow me on X:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF; text-decoration: none;">@stfulua_dev</a> <br> <br>
   <img src="https://img.shields.io/badge/Discord-stfu.lua-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">
   <img src="https://img.shields.io/badge/Email-stfulua@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&color=6D4AFF">
   <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white">
