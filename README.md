@@ -74,15 +74,15 @@
 
 <h2 align="center" style="color: #FF4500;">🎯 2025 Goals</h2>
 <p align="center" style="color: #FFFFFF;">
-  <b style="color: #FF69B4;">- Master Rust concurrency</b><br>
-  <b style="color: #00FFFF;">- Build a TypeScript reverse engineering tool</b><br>
-  <b style="color: #FFD700;">- Break something epic</b>
+  <b style="color: #FF69B4;">- Create MGH Builder.</b><br>
+  <b style="color: #00FFFF;">- Make powerful software.</b><br>
+  <b style="color: #FFD700;">- Make an big community.</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-85%25-FF00FF?style=for-the-badge&logo=tools">
+  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-40%25-FF00FF?style=for-the-badge&logo=tools">
   <br>
   <span style="color: #FF4500;">⚠ <b>I promise I will soon fix everything I have made. It’s a mess, but I’m on it!</b> ⚠</span><br>
   <span style="color: #00FFFF;">Repositories rebooting soon—stay tuned!</span>
