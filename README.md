@@ -85,15 +85,15 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-40%25-FF00FF?style=for-the-badge&logo=tools&logoColor=white">
+  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-40%25-FF00FF?style=for-the-badge&logo=tools&logoColor=white" alt="Repo Fix Progress">
   <br>
-  <span style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">⚠ <b>I promise I’ll fix everything—it’s a mess, but I’m grinding!</b> ⚠</span><br>
-  <span style="color: #00FFFF; text-shadow: 0 0 3px #00FFFF;">Repositories rebooting soon—get hyped!</span>
+  <span style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">⚠ <b>I promise I’ll fix everything I’ve done.</b> ⚠</span><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=20¢er=true&vCenter=true&width=400&lines=Fixing+it...;Rewiring+chaos...;Patching+madness...;Almost+there...;Fixing+it..." alt="Fixing Animation">
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stfulua.stfulua&color=FF69B4&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Chaos%20Level-Max-FF4500?style=for-the-badge&logo=explosion&logoColor=white">
-  <img src="https://img.shields.io/badge/Vibe%20Check-Passing-00FF7F?style=for-the-badge&logo=check-circle&logoColor=white">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stfulua.stfulua&color=FF69B4&style=for-the-badge" alt="Visitor Count">
+  <img src="https://img.shields.io/badge/Chaos%20Level-Max-FF4500?style=for-the-badge&logo=explosion&logoColor=white" alt="Chaos Level">
+  <img src="https://img.shields.io/badge/Vibe%20Check-Passing-00FF7F?style=for-the-badge&logo=check-circle&logoColor=white" alt="Vibe Check">
 </p>
 
 <!---
