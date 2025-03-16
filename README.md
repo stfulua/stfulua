@@ -6,7 +6,7 @@
   👋 Hey, I'm <b>@stfulua</b>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Reverse+Engineering+Wizard;Chaos+Code+Crafter;Creating+MGH+Builder;Building+Powerful+Software;Forging+a+Big+Community;Breaking+Code+Daily;Mastering+Neon+Chaos;Hacking+the+Matrix;Unleashing+Madness;Coding+at+Light+Speed;Rebooting+Repos+Now;Turning+Chaos+to+Gold;Living+the+Code+Life" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Reverse+Engineering+Wizard;Chaos+Code+Crafter;Creating+MGH+Builder;Building+Powerful+Software;Forging+a+Big+Community;Hacking+the+Matrix;Unleashing+Madness;Coding+at+Light+Speed;Rebooting+Repos+Now;Turning+Chaos+to+Gold;Living+the+Code+Life;No+ideas+for+projects;Waiting+for+your+ideas" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Vibes-Charged-FF4500?style=for-the-badge&logo=fire&logoColor=white">
