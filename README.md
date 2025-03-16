@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Vibes-Charged-FF4500?style=for-the-badge&logo=fire&logoColor=white">
   <img src="https://img.shields.io/badge/Coffee%20Level-Over%209000-6F4E37?style=for-the-badge&logo=coffee&logoColor=white">
-  <img src="https://img.shields.io/badge/Mood-Neon%20Chaos-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white">
+  <img src="https://img.shields.io/badge/Mood-Exploring...-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white">
 </p>
 
 ---
