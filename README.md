@@ -6,7 +6,7 @@
   👋 Hey, I'm <b>@stfulua</b>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=500&lines=Passionate+Programmer;Reverse+Engineering+Wizard;Chaos+Code+Crafter" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Reverse+Engineering+Wizard;Chaos+Code+Crafter;Creating+MGH+Builder;Building+Powerful+Software;Forging+a+Big+Community;Breaking+Code+Daily;Mastering+Neon+Chaos;Hacking+the+Matrix;Unleashing+Madness;Coding+at+Light+Speed;Rebooting+Repos+Now;Turning+Chaos+to+Gold;Living+the+Code+Life" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Vibes-Charged-FF4500?style=for-the-badge&logo=fire&logoColor=white">
@@ -85,10 +85,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-40%25-FF00FF?style=for-the-badge&logo=tools&logoColor=white" alt="Repo Fix Progress">
+  <img src="https://img.shields.io/badge/Repo%20Fix%20Progress-40%25-FF00FF?style=for-the-badge&logo=tools&logoColor=white&color=FF00FF&labelColor=1A1B27" alt="Repo Fix Progress">
   <br>
-  <span style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">⚠ <b>I promise I’ll fix everything I’ve done.</b> ⚠</span><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=20¢er=true&vCenter=true&width=400&lines=Fixing+it...;Rewiring+chaos...;Patching+madness...;Almost+there...;Fixing+it..." alt="Fixing Animation">
+  <span style="color: #FF4500; text-shadow: 0 0 8px #FF4500, 0 0 15px #FF4500;">⚠ <b>Im currently, fixing my virtual life.</b> ⚠</span><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22&center=true&vCenter=true&width=450&lines=Fixing+it...;Smashing+bugs...;Rewiring+chaos...;Patching+madness...;Hacking+it+back...;Almost+there...;Rebooting+now...;Fixing+it..." alt="Fixing Animation">
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stfulua.stfulua&color=FF69B4&style=for-the-badge" alt="Visitor Count">
