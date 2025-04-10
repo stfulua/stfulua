@@ -6,7 +6,7 @@
   👋 Greetings, I'm <b>@stfulua</b>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24¢er=true&vCenter=true&width=600&lines=Helping+People+My+Way;Dedicated+Software+Developer;Reverse+Engineering+Specialist;Code+Optimization+Expert;Building+MGH+Builder;Crafting+Robust+Tools;Fostering+Community+Growth;Decoding+Complex+Systems;Transforming+Ideas+to+Code;Operating+at+Peak+Performance;Refining+Repositories;Turning+Challenges+to+Value;Embracing+the+Dev+Journey;Welcoming+Your+Ideas" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24¢er=true&vCenter=true&width=600&lines=Helping+People+My+Way;Dedicated+Software+Developer;Reverse+Engineering+Specialist;Code+Optimization+Expert;Building+MGH+Builder;Crafting+Robust+Tools;Fostering+Community+Growth;Decoding+Complex+Systems;Transforming+Ideas+to+Code;Operating+at+Peak+Performance;Turning+Challenges+to+Value;Embracing+the+Dev+Journey;Welcoming+Your+Ideas" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Mission-Helping%20People-FF4500?style=for-the-badge&logo=heart&logoColor=white">
@@ -61,10 +61,6 @@
 
 <h2 align="center" style="color: #00FF7F; text-shadow: 0 0 5px #00FF7F;">🌐 Projects & Contributions</h2>
 <p align="center">
-  📚 <b style="background: linear-gradient(90deg, #FF00FF, #00FFFF); -webkit-background-clip: text; color: transparent;">Documentation Resources</b><br>
-  <a href="https://mg-team.gitbook.io/mg-team" style="color: #FF69B4; text-decoration: none;">🌸 MG Team</a> | 
-  <a href="https://mg-team.gitbook.io/universalsynsaveinstance" style="color: #00FFFF; text-decoration: none;">💧 SSI</a>
-  <br><br>
   <img src="https://img.shields.io/github/stars/stfulua?label=Total%20Stars&style=for-the-badge&color=FFD700">
   <img src="https://img.shields.io/github/followers/stfulua?label=Followers&style=for-the-badge&color=00FF7F">
   <img src="https://img.shields.io/github/languages/count/stfulua/stfulua?label=Languages%20Used&style=for-the-badge&color=FF69B4">
@@ -78,33 +74,27 @@
 
 <h2 align="center" style="color: #FFD700; text-shadow: 0 0 5px #FFD700;">📬 Get in Touch</h2>
 <p align="center">
-  💬 <b style="color: #FF00FF;">Discord:</b> <span style="color: #00FFFF;">stfu.lua</span> <br>
-  📂 <b style="color: #FF00FF;">Email:</b> <span style="color: #00FFFF;">stfulua@proton.me</span> <br>
+  💬 <b style="color: #FF00FF;">Discord:</b> <a href="discord://-/users/1220840597275934803" style="color: #00FFFF; text-decoration: none;">stfu.lua</a> <br>
   🐦 <b style="color: #FF00FF;">Follow me on X:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF; text-decoration: none;">@stfulua_dev</a> <br> <br>
   <img src="https://img.shields.io/badge/Discord-stfu.lua-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">
-  <img src="https://img.shields.io/badge/Email-stfulua@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&color=6D4AFF">
   <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white">
 </p>
 
 ---
 
-<h2 align="center" style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">🎯 2025 Objectives</h2>
+<h2 align="center" style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">🎯 Community Focus</h2>
 <p align="center" style="color: #FFFFFF;">
-  <b style="color: #FF69B4; text-shadow: 0 0 3px #FF69B4;">- Develop MGH Builder</b><br>
-  <b style="color: #00FFFF; text-shadow: 0 0 3px #00FFFF;">- Create Impactful Software</b><br>
-  <b style="color: #FFD700; text-shadow: 0 0 3px #FFD700;">- Make an friendly Community</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Progress-Supporting%20Others-FF00FF?style=for-the-badge&logo=rocket&logoColor=white">
+  <b style="color: #FF69B4; text-shadow: 0 0 3px #FF69B4;">Making anything you want, join my Discord:</b>
+  <a href="https://discord.gg/a5qQATeePk" style="color: #00FFFF; text-decoration: none;">Masyde Community</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repo%20Optimization-40%25-FF00FF?style=for-the-badge&logo=tools&logoColor=white&color=FF00FF&labelColor=1A1B27" alt="Repo Optimization Progress">
+  <img src="https://img.shields.io/badge/Happy%20Users-99%25-FF00FF?style=for-the-badge&logo=smile&logoColor=white&color=FF00FF&labelColor=1A1B27" alt="Happy Users">
   <br>
-  <span style="color: #FF4500; text-shadow: 0 0 8px #FF4500, 0 0 15px #FF4500;">⚠ <b>Currently optimizing my digital infrastructure.</b> ⚠</span><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22¢er=true&vCenter=true&width=450&lines=Refining+systems...;Resolving+issues...;Reorganizing+structure...;Enhancing+performance...;Rebuilding+now...;Streamlining+flow...;Nearing+completion..." alt="Optimization Animation">
+  <span style="color: #FF4500; text-shadow: 0 0 8px #FF4500, 0 0 15px #FF4500;">⚠ <b>Currently enhancing community experiences.</b> ⚠</span><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22¢er=true&vCenter=true&width=450&lines=Supporting+users...;Building+connections...;Solving+challenges...;Empowering+growth...;Strengthening+community...;Delivering+value...;Thriving+now..." alt="Community Animation">
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=stfulua.stfulua&color=FF69B4&style=for-the-badge" alt="Visitor Count">
