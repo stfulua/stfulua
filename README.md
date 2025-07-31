@@ -85,7 +85,7 @@
 <h2 align="center" style="color: #FF4500; text-shadow: 0 0 5px #FF4500;">🎯 Community Focus</h2>
 <p align="center" style="color: #FFFFFF;">
   <b style="color: #FF69B4; text-shadow: 0 0 3px #FF69B4;">Making anything you want, join my Discord:</b>
-  <a href="https://discord.gg/a5qQATeePk" style="color: #00FFFF; text-decoration: none;">Masyde Community</a>
+  <a href="https://discord.gg/unavailable" style="color: #00FFFF; text-decoration: none;">No community for now, sorry.</a>
 </p>
 
 ---
