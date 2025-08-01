@@ -5,7 +5,7 @@
 <h1 align="center" style="background: linear-gradient(90deg, #FF6EC7, #6EFFFF, #FF00FF); -webkit-background-clip: text; color: transparent; font-size: 36px;">
   👋 Greetings, I'm <b>@stfulua</b>
 </h1>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P81CGZKV)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24¢er=true&vCenter=true&width=600&lines=Helping+People+My+Way;Dedicated+Software+Developer;Reverse+Engineering+Specialist;Code+Optimization+Expert;Building+MGH+Builder;Crafting+Robust+Tools;Fostering+Community+Growth;Decoding+Complex+Systems;Transforming+Ideas+to+Code;Operating+at+Peak+Performance;Turning+Challenges+to+Value;Embracing+the+Dev+Journey;Welcoming+Your+Ideas" alt="Typing SVG">
 </p>
