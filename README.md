@@ -38,8 +38,8 @@
 <p align="center">
   💬 <b style="color: #FF00FF;">Telegram:</b> <a href="https://t.me/v4bis" style="color: #00FFFF;">d6k9</a> <br>
   🐦 <b style="color: #FF00FF;">X/Twitter:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF;">@stfulua_dev</a> <br><br>
-  <img src="https://img.shields.io/badge/Telegram-d6k9-0088cc?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white">
+  <a href="https://t.me/v4bis"><img src="https://img.shields.io/badge/Telegram-d6k9-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white"></a>
 </p>
 
 ---
