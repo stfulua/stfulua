@@ -20,16 +20,16 @@
 
 ---
 
-<h2 align="center" style="color: #00FFFF;">💻 Tech I Use</h2>
+<h2 align="center" style="color: #00FFFF;">💻 Expert</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,go,java,js,php,kotlin" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,go,js,php" alt="Skills Icons" />
 </p>
 
 ---
 
-<h2 align="center" style="color: #FFD700;">📖 Learning</h2>
+<h2 align="center" style="color: #FFD700;">📖 New to</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,rust,swift" alt="Learning Icons" />
+  <img src="https://skillicons.dev/icons?i=typescript,rust,swift,kotlin,java" alt="Learning Icons" />
 </p>
 
 ---
