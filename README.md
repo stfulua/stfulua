@@ -34,9 +34,9 @@
 
 ---
 
-<h2 align="center" style="color: #FF69B4;">📬 Connect with Me</h2>
+<h2 align="center" style="color: #FF69B4;">📬 Contact Me</h2>
 <p align="center">
-  💬 <b style="color: #FF00FF;">Discord:</b> <a href="discord://-/users/1220840597275934803" style="color: #00FFFF;">stfu.lua</a> <br>
+  💬 <b style="color: #FF00FF;">Discord:</b> <a href="discord://-/users/1220840597275934803" style="color: #00FFFF;">d6k9</a> <br>
   🐦 <b style="color: #FF00FF;">X/Twitter:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF;">@stfulua_dev</a> <br><br>
   <img src="https://img.shields.io/badge/Discord-stfu.lua-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white">
