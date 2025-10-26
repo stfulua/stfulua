@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Waiting+for+windows+10+to+end+support...;Planning+a+secret+attack...;Trying+to+manipulate+windows+itself...;Learning+and+patching+backdoor+methods..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=600&lines=Doing+nothing+...;Not+existing+...;Living+...;Learning+and+teaching+..." alt="Typing SVG">
 </p>
 
 ---
