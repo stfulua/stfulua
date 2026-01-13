@@ -12,6 +12,12 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://discord.com/users/1404217861244977192" target="_blank">
+    <img width="50%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1404217861244977192?bg=1f1f1f&borderRadius=5px">
+  </a>
+</div>
+
 ---
 
 <p align="center">
