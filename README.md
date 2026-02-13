@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://github.com/stfulua/stfulua/blob/main/banner.gif" alt="stfulua Banner" width="80%" style="border-radius: 15px;">
-</p>
-
 <h1 align="center" style="background: linear-gradient(90deg, #FF6EC7, #6EFFFF, #FF00FF); -webkit-background-clip: text; color: transparent; font-size: 36px;">
-  Hello, I'm <b>@stfulua</b>
+  Hello, I'm <b>stfulua</b>
 </h1>
 
 <p align="center">
