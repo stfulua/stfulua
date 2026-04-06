@@ -43,9 +43,3 @@
   <a href="https://t.me/v4bis"><img src="https://img.shields.io/badge/Telegram-d6k9-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white"></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stfulua&show_icons=true&theme=radical&bg_color=1A1B27&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=FF69B4" alt="GitHub Stats">
-</p>
