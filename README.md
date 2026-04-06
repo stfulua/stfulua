@@ -24,14 +24,14 @@
 
 <h2 align="center" style="color: #00FFFF;">💻 Expert</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,go,js,php" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=lua,typescript,python,cpp,cs,js,java" alt="Skills Icons" />
 </p>
 
 ---
 
 <h2 align="center" style="color: #FFD700;">📖 New to</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,rust,swift,kotlin,java" alt="Learning Icons" />
+  <img src="https://skillicons.dev/icons?i=rust,go" alt="Learning Icons" />
 </p>
 
 ---
