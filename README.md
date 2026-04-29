@@ -16,15 +16,29 @@
 
 ---
 
-<p align="center">
-  <i>
-    "There is no answer better than silence, and there is no punishment worse than forgiveness."<br><br>
-    "A quiet man is terrifying to those who live in noise."<br><br>
-    "I will not be reformed by those who broke me. That is what it means to be Incorrigible."<br><br>
-    "The right person won't need you to explain your silence. They will sit beside it."<br><br>
-    "If you want to understand me, read the silence, not the storm."
-  </i>
-</p>
+<div align="center">
+  <table border="0" cellpadding="12" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%E2%80%94-%E2%80%94-FF00FF?style=flat-square&labelColor=0d1117" width="60"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="700">
+        <i>"There is no answer better than silence, and there is no punishment worse than forgiveness."</i><br><br>
+        <i>"A quiet man is terrifying to those who live in noise."</i><br><br>
+        <i>"I will not be reformed by those who broke me. That is what it means to be Incorrigible."</i><br><br>
+        <i>"The right person won't need you to explain your silence. They will sit beside it."</i><br><br>
+        <i>"If you want to understand me, read the silence, not the storm."</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%E2%80%94-%E2%80%94-FF00FF?style=flat-square&labelColor=0d1117" width="60"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
