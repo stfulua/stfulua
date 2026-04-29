@@ -22,6 +22,15 @@
 
 ---
 
+<h2 align="center" style="color: #00FFFF;">📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/stfulua">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stfulua&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+---
+
 <h2 align="center" style="color: #FF69B4;">📬 Contact Me</h2>
 <p align="center">
   💬 <b style="color: #FF00FF;">Telegram:</b> <a href="https://t.me/v4bis" style="color: #00FFFF;">v4bis</a> <br>
