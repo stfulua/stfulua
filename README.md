@@ -22,20 +22,6 @@
 
 ---
 
-<h2 align="center" style="color: #00FFFF;">💻 Expert</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,typescript,python,cpp,cs,js,java" alt="Skills Icons" />
-</p>
-
----
-
-<h2 align="center" style="color: #FFD700;">📖 New to</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go" alt="Learning Icons" />
-</p>
-
----
-
 <h2 align="center" style="color: #FF69B4;">📬 Contact Me</h2>
 <p align="center">
   💬 <b style="color: #FF00FF;">Telegram:</b> <a href="https://t.me/v4bis" style="color: #00FFFF;">v4bis</a> <br>
@@ -43,3 +29,14 @@
   <a href="https://t.me/v4bis"><img src="https://img.shields.io/badge/Telegram-d6k9-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/twitter/follow/stfulua_dev?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white"></a>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://www.vprolabs.xyz/foliumhosting">
+    <img src="https://cdn.modrinth.com/data/cached_images/4a06749284b8ac33f9754f15990dee97e9d57892.png" alt="FoliumHosting">
+  </a>
+  <h2>
+    <a href="https://www.vprolabs.xyz/foliumhosting">Check out FoliumHosting!</a>
+  </h2>
+</div>
