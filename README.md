@@ -17,7 +17,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF00FF&size=24&center=true&vCenter=true&width=650&lines=There+is+no+answer+better+than+silence%2C+and+there+is+no+punishment+worse+than+forgiveness.;A+quiet+man+is+terrifying+to+those+who+live+in+noise.;I+will+not+be+reformed+by+those+who+broke+me.+That+is+what+it+means+to+be+Incorrigible.;The+right+person+won%27t+need+you+to+explain+your+silence.+They+will+sit+beside+it.;If+you+want+to+understand+me%2C+read+the+silence%2C+not+the+storm.&random=true" alt="Typing SVG">
+  <i>
+    "There is no answer better than silence, and there is no punishment worse than forgiveness."<br><br>
+    "A quiet man is terrifying to those who live in noise."<br><br>
+    "I will not be reformed by those who broke me. That is what it means to be Incorrigible."<br><br>
+    "The right person won't need you to explain your silence. They will sit beside it."<br><br>
+    "If you want to understand me, read the silence, not the storm."
+  </i>
 </p>
 
 ---
