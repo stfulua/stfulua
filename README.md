@@ -1,6 +1,6 @@
 <h1 align="center" style="background: linear-gradient(90deg, #FF6EC7, #6EFFFF, #FF00FF); -webkit-background-clip: text; color: transparent; font-size: 36px;">
-  Hello, I'm <b>stfulua</b>
-</h1><div align="center">old-usernames: `v4bi` & `d6k9`</div>
+  Hello, I'm <b>v4bi</b>
+</h1><div align="center">sub-usernames: `stfulua` & `d6k9`</div>
 
 ---
 
