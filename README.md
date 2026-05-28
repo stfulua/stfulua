@@ -33,13 +33,9 @@
 
 <h2 align="center" style="color: #00FFFF;">📊 GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/stfulua">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stfulua&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stfulua&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
   <br>
-  <a href="https://github.com/stfulua">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stfulua&theme=radical" alt="GitHub Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stfulua&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
@@ -47,10 +43,10 @@
 <h2 align="center" style="color: #FF69B4;">📬 Contact Me</h2>
 <p align="center">
   💬 <b style="color: #FF00FF;">Discord:</b> <a href="https://discord.com/users/1404217861244977192" style="color: #00FFFF;">v4bi</a> <br>
-  💬 <b style="color: #FF00FF;">Telegram:</b> <a href="https://t.me/v4bi" style="color: #00FFFF;">v4bi</a> <br>
+  💬 <b style="color: #FF00FF;">Telegram:</b> <a href="https://t.me/v4bis" style="color: #00FFFF;">v4bis</a> <br>
   🐦 <b style="color: #FF00FF;">X/Twitter:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF;">@stfulua_dev</a> <br><br>
   <a href="https://discord.com/users/1404217861244977192"><img src="https://img.shields.io/badge/Discord-v4bi-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://t.me/v4bi"><img src="https://img.shields.io/badge/Telegram-v4bi-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/v4bis"><img src="https://img.shields.io/badge/Telegram-v4bis-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a> <span style="color:#00FFFF;">@stfulua_dev</span>
 </p>
 
