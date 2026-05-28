@@ -2,11 +2,7 @@
   Hello, I'm <b>stfulua</b>
 </h1>
 
-<p align="center">
-  <a href="https://ko-fi.com/d6k9">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E31IX9EK)
 
 <div align="center">
   <a href="https://discord.com/users/1404217861244977192" target="_blank">
