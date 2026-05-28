@@ -2,6 +2,8 @@
   Hello, I'm <b>stfulua</b>
 </h1><div align="center">old-usernames: `v4bi` & `d6k9`</div>
 
+---
+
 <div align="center">
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E31IX9EK)
