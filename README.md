@@ -47,7 +47,7 @@
   🐦 <b style="color: #FF00FF;">X/Twitter:</b> <a href="https://x.com/stfulua_dev" style="color: #00FFFF;">@stfulua_dev</a> <br><br>
   <a href="https://discord.com/users/1404217861244977192"><img src="https://img.shields.io/badge/Discord-v4bi-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://t.me/v4bis"><img src="https://img.shields.io/badge/Telegram-v4bis-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a> <span style="color:#00FFFF;">@stfulua_dev</span>
+  <a href="https://x.com/stfulua_dev"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>@stfulua_dev<span style="color:#00FFFF;"></span>
 </p>
 
 ---
